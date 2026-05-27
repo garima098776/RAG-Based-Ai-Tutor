@@ -1,1 +1,1 @@
-# RAG-Based-Ai-Tutor
+# Video-Tutor-Ai
